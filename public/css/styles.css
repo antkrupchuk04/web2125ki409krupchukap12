@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .social-links a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  .social-links a:hover {
+    text-decoration: underline;
+  }
